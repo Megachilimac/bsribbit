@@ -50,3 +50,15 @@
     opacity: 1;
   }
 }
+
+body {
+  background-color: #509512;
+}
+
+.dropdown-menu {
+  background-color: black;
+}
+
+.dropdown-item {
+  color: #307800;
+}
